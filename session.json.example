@@ -1,0 +1,44 @@
+{
+  "cpu": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  },
+  "gpu": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  },
+  "motherboard": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  },
+  "memoryRam": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  },
+  "dataStorage": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  },
+  "powerSupply": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  },
+  "case": {
+    "name": "",
+    "id": "",
+    "price": "",
+    "seller": ""
+  }
+}
